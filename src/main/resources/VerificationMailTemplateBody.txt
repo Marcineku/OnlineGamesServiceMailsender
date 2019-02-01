@@ -1,0 +1,6 @@
+<h4>Hi {name},</h4><br>
+We are glad you have joined our game community.<br>
+Please confirm your email address by clicking on the link below.<br>
+<a href="{link}">{link}</a><br>
+If you did not sign up for a online games website please disregard this email.<br>
+Online games website team.
